@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">ContextMenuWithListView</string>
+    <string name="add_to_cart">Add To Cart</string>
+    <string name="like">Like</string>
+    <string name="dislike">Dislike</string>
+    <string name="comments">Comments</string>
+
+    <string-array name="foodItems">
+        <item>"Pav Bhaji"</item>
+        <item>"Pulav"</item>
+        <item>"Dosa"</item>
+        <item>"Vada Pav"</item>
+        <item>"Pohe"</item>
+    </string-array>
+
+    <integer-array name="numbers">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </integer-array>
+
+    <integer name="Five">5</integer>
+</resources>
